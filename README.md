@@ -1,1 +1,1 @@
-# The "about.html" is my startin file.
+# The "about.html" is my starting file.
